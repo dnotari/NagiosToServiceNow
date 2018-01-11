@@ -3,8 +3,7 @@
 # nagios: -epn
 #
 # Script created for event based servicenow tickets.
-# Author Daniel Notari dnotari@vubiquity.com
-#
+# #
 # DESCRIPTION:
 #	Perl written Nagios Alerts to send ticket information to a ServiceNow instance.  This will be fired
 #	on a event handler.
